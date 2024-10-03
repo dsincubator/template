@@ -40,5 +40,5 @@ Objectives:
 * [About the ixpanteria project](https://github.com/ixpanteria).
 * [YouTube playlist with videos in the entire project](FIXME).
 * [YouTube playlist with videos in this specific series](FIXME).
-* [Main resource used to develop this series](FIXME)
+* [Main resource used to develop this series](FIXME).
 * ...
