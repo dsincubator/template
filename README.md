@@ -37,7 +37,7 @@ Objectives:
 
 ## Resources
 
-* [About the ixpanteria project](https://github.com/ixpanteria).
+* [About the dsincubator project](https://github.com/dsincubator).
 * [YouTube playlist with videos in the entire project](FIXME).
 * [YouTube playlist with videos in this specific series](FIXME).
 * [Main resource used to develop this series](FIXME).
