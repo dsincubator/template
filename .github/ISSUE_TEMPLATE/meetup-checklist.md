@@ -9,7 +9,7 @@ assignees: ''
 
 ## Before
 
-- [ ] Create a repo from the [dsincubator/template](https://github.com/dsincubator/meta) and prepare the materials.
+- [ ] Create a repo from the [dsincubator/template](https://github.com/dsincubator/template) and prepare the materials.
 - [ ] Announce in the most appropriate channel, e.g. #dsincubator
 - [ ] Create/update the calendar invitation.
 
