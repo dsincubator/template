@@ -9,8 +9,8 @@ assignees: ''
 
 ## Before
 
-- [ ] Create a repo from the [ixpanteria/template](https://github.com/ixpanteria/meta) and prepare the materials.
-- [ ] Announce in the most appropriate channel, e.g. #ixpanteria
+- [ ] Create a repo from the [dsincubator/template](https://github.com/dsincubator/meta) and prepare the materials.
+- [ ] Announce in the most appropriate channel, e.g. #dsincubator
 - [ ] Create/update the calendar invitation.
 
 ## During
